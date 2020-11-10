@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.canvas.*?>
+<?import javafx.scene.layout.*?>
+
+<GridPane alignment="center" hgap="10" vgap="10" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <columnConstraints>
+      <ColumnConstraints />
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints />
+   </rowConstraints>
+   <children>
+      <Pane fx:id="MainPane" prefHeight="385.0" prefWidth="450.0">
+         <children>
+            <Pane fx:id="canvasPane" layoutX="87.0" layoutY="70.0" prefHeight="245.0" prefWidth="276.0" style="-fx-background-color: dddddd; -fx-background-radius: 30; -fx-border-color: #11bbbb; -fx-border-radius: 30;">
+               <children>
+                  <Canvas fx:id="gameCanvas" height="200.0" layoutX="38.0" layoutY="22.0" onMouseClicked="#onCanvasClicked" width="200.0" />
+               </children>
+            </Pane>
+         </children>
+      </Pane>
+   </children>
+</GridPane>
