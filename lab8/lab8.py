@@ -10,6 +10,7 @@ from nltk.stem import WordNetLemmatizer
 lemmatizer = WordNetLemmatizer()
 import matplotlib.pyplot as plt
 from sklearn.manifold import TSNE
+from sklearn.cluster import DBSCAN, AgglomerativeClustering
 
 import json
 import pickle
@@ -38,14 +39,19 @@ def read(filename):
 def preprocess(text):
     #eliminare referinte
     text=re.sub("\[\d*\]","",text)
+    text=re.sub("-?\d+(?:\.\d+)?%?","nrnr",text)
+    text=text.replace(",","")
+    print(text)
     #impartire in prop- automat utilizand punkt + toLOWER
     sentences=sentence_detector.tokenize(text.strip().lower())
     sentence_tokens=[]
     unique_words=set()
     for s in sentences:
         print(s)
+        s=re.sub("[\.\(\)\:]","",s)
         #tokenizare
         text_tokens=word_tokenize(s)
+        print(text_tokens)
         #eliminare stop words
         tokens_without_sw = [word for word in text_tokens if word not in stopwords.words('english')]
         sentence_tokens.append(tokens_without_sw)
@@ -146,24 +152,28 @@ def find_closest(word_vec, word, count = 5):
     return neighs[:count+1]
 
 
-text = read("text2.txt")
+text = read("Lab8/water.txt")
 unique_words, sentence_tokens = preprocess(text)
 one_hot, word_index = one_hot_processing(unique_words)
 
 Xs, Ys = generate_train_data(sentence_tokens,one_hot,window_size=4)
 
-W, W1 = train_skip_gram(one_hot, Xs, Ys, epochs=200, num_hidden_layer=30, learn=1e-3)
+W, W1 = train_skip_gram(one_hot, Xs, Ys, epochs=400, num_hidden_layer=30, learn=1e-3)
 
 word_vec = []
 
 for i in range(len(unique_words)):
     word_vec.append(W[:, i])
 
+aggl = AgglomerativeClustering(n_clusters=10)
+clusters = aggl.fit_predict(word_vec)
+print("aggl",clusters)
+
 tsne = TSNE(n_components = 2)
 vec_resized = tsne.fit_transform(word_vec)
 print(vec_resized.shape)
 
-plt.scatter(vec_resized[:,0],vec_resized[:,1])
+plt.scatter(vec_resized[:,0],vec_resized[:,1],c=clusters)
 
 for i in range(len(vec_resized)):
     plt.annotate(unique_words[i],(vec_resized[i,0],vec_resized[i,1]))
@@ -172,7 +182,15 @@ plt.show()
 
 # print(word_vec)
 
-for i,s in find_closest(word_vec, "water"):
+for i,s in find_closest(word_vec, "cities"):
     print(unique_words[i],s)
 
+classes = {}
+for i,w in enumerate(unique_words):
+    if clusters[i] in classes:
+        classes[clusters[i]].append(w)
+    else:
+        classes[clusters[i]] = [w]
 
+for k in classes.keys():
+    print(k,classes[k])
