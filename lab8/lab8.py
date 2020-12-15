@@ -152,7 +152,7 @@ def find_closest(word_vec, word, count = 5):
     return neighs[:count+1]
 
 
-text = read("Lab8/water.txt")
+text = read("lab8/water.txt")
 unique_words, sentence_tokens = preprocess(text)
 one_hot, word_index = one_hot_processing(unique_words)
 
