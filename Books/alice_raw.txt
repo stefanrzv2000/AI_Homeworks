@@ -134,7 +134,7 @@ letters.
 
 It was all very well to say 'Drink me,' but the wise little Alice was
 not going to do THAT in a hurry. 'No, I'll look first,' she said, 'and
-see whether it's marked "poison" or not'; for she had read several nice
+see whether it's marked poison or not'; for she had read several nice
 little histories about children who had got burnt, and eaten up by wild
 beasts and other unpleasant things, all because they WOULD not remember
 the simple rules their friends had taught them: such as, that a red-hot
@@ -281,7 +281,7 @@ four times seven is--oh dear! I shall never get to twenty at that rate!
 However, the Multiplication Table doesn't signify: let's try Geography.
 London is the capital of Paris, and Paris is the capital of Rome, and
 Rome--no, THAT'S all wrong, I'm certain! I must have been changed for
-Mabel! I'll try and say "How doth the little--"' and she crossed her
+Mabel! I'll try and say How doth the little--' and she crossed her
 hands on her lap as if she were saying lessons, and began to repeat it,
 but her voice sounded hoarse and strange, and the words did not come the
 same as they used to do:--
@@ -301,10 +301,10 @@ filled with tears again as she went on, 'I must be Mabel after all, and
 I shall have to go and live in that poky little house, and have next to
 no toys to play with, and oh! ever so many lessons to learn! No, I've
 made up my mind about it; if I'm Mabel, I'll stay down here! It'll be no
-use their putting their heads down and saying "Come up again, dear!" I
-shall only look up and say "Who am I then? Tell me that first, and then,
+use their putting their heads down and saying Come up again, dear! I
+shall only look up and say Who am I then? Tell me that first, and then,
 if I like being that person, I'll come up: if not, I'll stay down here
-till I'm somebody else"--but, oh dear!' cried Alice, with a sudden burst
+till I'm somebody else--but, oh dear!' cried Alice, with a sudden burst
 of tears, 'I do wish they WOULD put their heads down! I am so VERY tired
 of being all alone here!'
 
@@ -435,11 +435,11 @@ in the middle. Alice kept her eyes anxiously fixed on it, for she felt
 sure she would catch a bad cold if she did not get dry very soon.
 
 'Ahem!' said the Mouse with an important air, 'are you all ready? This
-is the driest thing I know. Silence all round, if you please! "William
+is the driest thing I know. Silence all round, if you please! William
 the Conqueror, whose cause was favoured by the pope, was soon submitted
 to by the English, who wanted leaders, and had been of late much
 accustomed to usurpation and conquest. Edwin and Morcar, the earls of
-Mercia and Northumbria--"'
+Mercia and Northumbria--'
 
 'Ugh!' said the Lory, with a shiver.
 
@@ -448,23 +448,23 @@ you speak?'
 
 'Not I!' said the Lory hastily.
 
-'I thought you did,' said the Mouse. '--I proceed. "Edwin and Morcar,
+'I thought you did,' said the Mouse. '--I proceed. Edwin and Morcar,
 the earls of Mercia and Northumbria, declared for him: and even Stigand,
-the patriotic archbishop of Canterbury, found it advisable--"'
+the patriotic archbishop of Canterbury, found it advisable--'
 
 'Found WHAT?' said the Duck.
 
 'Found IT,' the Mouse replied rather crossly: 'of course you know what
-"it" means.'
+it means.'
 
-'I know what "it" means well enough, when I find a thing,' said the
+'I know what it means well enough, when I find a thing,' said the
 Duck: 'it's generally a frog or a worm. The question is, what did the
 archbishop find?'
 
-The Mouse did not notice this question, but hurriedly went on, '"--found
+The Mouse did not notice this question, but hurriedly went on, '--found
 it advisable to go with Edgar Atheling to meet William and offer him the
 crown. William's conduct at first was moderate. But the insolence of his
-Normans--" How are you getting on now, my dear?' it continued, turning
+Normans-- How are you getting on now, my dear?' it continued, turning
 to Alice as it spoke.
 
 'As wet as ever,' said Alice in a melancholy tone: 'it doesn't seem to
@@ -556,7 +556,7 @@ something like this:--
          mouse, That he
         met in the
        house,
-     "Let us
+     Let us
       both go to
        law: I will
         prosecute
@@ -568,10 +568,10 @@ something like this:--
       really this
      morning I've
     nothing
-    to do."
+    to do.
      Said the
       mouse to the
-       cur, "Such
+       cur, Such
         a trial,
          dear Sir,
             With
@@ -580,14 +580,14 @@ something like this:--
        would be
       wasting
       our
-      breath."
-       "I'll be
+      breath.
+       I'll be
         judge, I'll
-         be jury,"
+         be jury,
             Said
          cunning
           old Fury:
-          "I'll
+          I'll
           try the
             whole
             cause,
@@ -595,7 +595,7 @@ something like this:--
            condemn
            you
           to
-           death."'
+           death.'
 
 
 'You are not attending!' said the Mouse to Alice severely. 'What are you
@@ -688,9 +688,9 @@ fan and gloves.
 
 'How queer it seems,' Alice said to herself, 'to be going messages for
 a rabbit! I suppose Dinah'll be sending me on messages next!' And she
-began fancying the sort of thing that would happen: '"Miss Alice! Come
-here directly, and get ready for your walk!" "Coming in a minute,
-nurse! But I've got to see that the mouse doesn't get out." Only I don't
+began fancying the sort of thing that would happen: 'Miss Alice! Come
+here directly, and get ready for your walk! Coming in a minute,
+nurse! But I've got to see that the mouse doesn't get out. Only I don't
 think,' Alice went on, 'that they'd let Dinah stop in the house if it
 began ordering people about like that!'
 
@@ -991,10 +991,10 @@ used--and I don't keep the same size for ten minutes together!'
 
 'Can't remember WHAT things?' said the Caterpillar.
 
-'Well, I've tried to say "HOW DOTH THE LITTLE BUSY BEE," but it all came
+'Well, I've tried to say HOW DOTH THE LITTLE BUSY BEE, but it all came
 different!' Alice replied in a very melancholy voice.
 
-'Repeat, "YOU ARE OLD, FATHER WILLIAM,"' said the Caterpillar.
+'Repeat, YOU ARE OLD, FATHER WILLIAM,' said the Caterpillar.
 
 Alice folded her hands, and began:--
 
@@ -1583,14 +1583,14 @@ March Hare.
 say--that's the same thing, you know.'
 
 'Not the same thing a bit!' said the Hatter. 'You might just as well say
-that "I see what I eat" is the same thing as "I eat what I see"!'
+that I see what I eat is the same thing as I eat what I see!'
 
-'You might just as well say,' added the March Hare, 'that "I like what I
-get" is the same thing as "I get what I like"!'
+'You might just as well say,' added the March Hare, 'that I like what I
+get is the same thing as I get what I like!'
 
 'You might just as well say,' added the Dormouse, who seemed to be
-talking in his sleep, 'that "I breathe when I sleep" is the same thing
-as "I sleep when I breathe"!'
+talking in his sleep, 'that I breathe when I sleep is the same thing
+as I sleep when I breathe!'
 
 'It IS the same thing with you,' said the Hatter, and here the
 conversation dropped, and the party sat silent for a minute, while Alice
@@ -1684,8 +1684,8 @@ quarrelled last March--just before HE went mad, you know--' (pointing
 with his tea spoon at the March Hare,) '--it was at the great concert
 given by the Queen of Hearts, and I had to sing
 
-     "Twinkle, twinkle, little bat!
-     How I wonder what you're at!"
+     Twinkle, twinkle, little bat!
+     How I wonder what you're at!
 
 You know the song, perhaps?'
 
@@ -1693,17 +1693,17 @@ You know the song, perhaps?'
 
 'It goes on, you know,' the Hatter continued, 'in this way:--
 
-     "Up above the world you fly,
+     Up above the world you fly,
      Like a tea-tray in the sky.
-         Twinkle, twinkle--"'
+         Twinkle, twinkle--'
 
 Here the Dormouse shook itself, and began singing in its sleep 'Twinkle,
 twinkle, twinkle, twinkle--' and went on so long that they had to pinch
 it to make it stop.
 
 'Well, I'd hardly finished the first verse,' said the Hatter, 'when the
-Queen jumped up and bawled out, "He's murdering the time! Off with his
-head!"'
+Queen jumped up and bawled out, He's murdering the time! Off with his
+head!'
 
 'How dreadfully savage!' exclaimed Alice.
 
@@ -1834,7 +1834,7 @@ The Dormouse had closed its eyes by this time, and was going off into
 a doze; but, on being pinched by the Hatter, it woke up again with
 a little shriek, and went on: '--that begins with an M, such as
 mouse-traps, and the moon, and memory, and muchness--you know you say
-things are "much of a muchness"--did you ever see such a thing as a
+things are much of a muchness--did you ever see such a thing as a
 drawing of a muchness?'
 
 'Really, now you ask me,' said Alice, very much confused, 'I don't
@@ -2014,10 +2014,10 @@ sentence of execution.'
 
 'What for?' said Alice.
 
-'Did you say "What a pity!"?' the Rabbit asked.
+'Did you say What a pity!?' the Rabbit asked.
 
 'No, I didn't,' said Alice: 'I don't think it's at all a pity. I said
-"What for?"'
+What for?'
 
 'She boxed the Queen's ears--' the Rabbit began. Alice gave a little
 scream of laughter. 'Oh, hush!' the Rabbit whispered in a frightened
@@ -2213,16 +2213,16 @@ bore it as well as she could.
 'The game's going on rather better now,' she said, by way of keeping up
 the conversation a little.
 
-''Tis so,' said the Duchess: 'and the moral of that is--"Oh, 'tis love,
-'tis love, that makes the world go round!"'
+''Tis so,' said the Duchess: 'and the moral of that is--Oh, 'tis love,
+'tis love, that makes the world go round!'
 
 'Somebody said,' Alice whispered, 'that it's done by everybody minding
 their own business!'
 
 'Ah, well! It means much the same thing,' said the Duchess, digging her
 sharp little chin into Alice's shoulder as she added, 'and the moral
-of THAT is--"Take care of the sense, and the sounds will take care of
-themselves."'
+of THAT is--Take care of the sense, and the sounds will take care of
+themselves.'
 
 'How fond she is of finding morals in things!' Alice thought to herself.
 
@@ -2234,7 +2234,7 @@ the temper of your flamingo. Shall I try the experiment?'
 have the experiment tried.
 
 'Very true,' said the Duchess: 'flamingoes and mustard both bite. And
-the moral of that is--"Birds of a feather flock together."'
+the moral of that is--Birds of a feather flock together.'
 
 'Only mustard isn't a bird,' Alice remarked.
 
@@ -2245,17 +2245,17 @@ putting things!'
 
 'Of course it is,' said the Duchess, who seemed ready to agree to
 everything that Alice said; 'there's a large mustard-mine near here. And
-the moral of that is--"The more there is of mine, the less there is of
-yours."'
+the moral of that is--The more there is of mine, the less there is of
+yours.'
 
 'Oh, I know!' exclaimed Alice, who had not attended to this last remark,
 'it's a vegetable. It doesn't look like one, but it is.'
 
 'I quite agree with you,' said the Duchess; 'and the moral of that
-is--"Be what you would seem to be"--or if you'd like it put more
-simply--"Never imagine yourself not to be otherwise than what it might
+is--Be what you would seem to be--or if you'd like it put more
+simply--Never imagine yourself not to be otherwise than what it might
 appear to others that what you were or might have been was not otherwise
-than what you had been would have appeared to them to be otherwise."'
+than what you had been would have appeared to them to be otherwise.'
 
 'I think I should understand that better,' Alice said very politely, 'if
 I had it written down: but I can't quite follow it as you say it.'
@@ -2346,7 +2346,7 @@ half to itself, half to Alice.
 'Why, SHE,' said the Gryphon. 'It's all her fancy, that: they never
 executes nobody, you know. Come on!'
 
-'Everybody says "come on!" here,' thought Alice, as she went slowly
+'Everybody says come on! here,' thought Alice, as she went slowly
 after it: 'I never was so ordered about in all my life, never!'
 
 They had not gone far before they saw the Mock Turtle in the distance,
@@ -2418,7 +2418,7 @@ as all that.'
 
 'Ah! then yours wasn't a really good school,' said the Mock Turtle in
 a tone of great relief. 'Now at OURS they had at the end of the bill,
-"French, music, AND WASHING--extra."'
+French, music, AND WASHING--extra.'
 
 'You couldn't have wanted it much,' said Alice; 'living at the bottom of
 the sea.'
@@ -2432,7 +2432,7 @@ only took the regular course.'
 replied; 'and then the different branches of Arithmetic--Ambition,
 Distraction, Uglification, and Derision.'
 
-'I never heard of "Uglification,"' Alice ventured to say. 'What is it?'
+'I never heard of Uglification,' Alice ventured to say. 'What is it?'
 
 The Gryphon lifted up both its paws in surprise. 'What! Never heard of
 uglifying!' it exclaimed. 'You know what to beautify is, I suppose?'
@@ -2557,8 +2557,8 @@ then treading on her toes when they passed too close, and waving their
 forepaws to mark the time, while the Mock Turtle sang this, very slowly
 and sadly:--
 
- '"Will you walk a little faster?" said a whiting to a snail.
- "There's a porpoise close behind us, and he's treading on my tail.
+ 'Will you walk a little faster? said a whiting to a snail.
+ There's a porpoise close behind us, and he's treading on my tail.
 
  See how eagerly the lobsters and the turtles all advance!
  They are waiting on the shingle--will you come and join the dance?
@@ -2566,21 +2566,21 @@ and sadly:--
  Will you, won't you, will you, won't you, will you join the dance?
  Will you, won't you, will you, won't you, won't you join the dance?
 
- "You can really have no notion how delightful it will be
- When they take us up and throw us, with the lobsters, out to sea!"
- But the snail replied "Too far, too far!" and gave a look askance--
+ You can really have no notion how delightful it will be
+ When they take us up and throw us, with the lobsters, out to sea!
+ But the snail replied Too far, too far! and gave a look askance--
  Said he thanked the whiting kindly, but he would not join the dance.
 
  Would not, could not, would not, could not, would not join the dance.
  Would not, could not, would not, could not, could not join the dance.
 
- '"What matters it how far we go?" his scaly friend replied.
- "There is another shore, you know, upon the other side.
+ 'What matters it how far we go? his scaly friend replied.
+ There is another shore, you know, upon the other side.
  The further off from England the nearer is to France--
  Then turn not pale, beloved snail, but come and join the dance.
 
  Will you, won't you, will you, won't you, will you join the dance?
- Will you, won't you, will you, won't you, won't you join the dance?"'
+ Will you, won't you, will you, won't you, won't you join the dance?'
 
 'Thank you, it's a very interesting dance to watch,' said Alice, feeling
 very glad that it was over at last: 'and I do so like that curious song
@@ -2636,8 +2636,8 @@ answer. 'They're done with blacking, I believe.'
 'any shrimp could have told you that.'
 
 'If I'd been the whiting,' said Alice, whose thoughts were still running
-on the song, 'I'd have said to the porpoise, "Keep back, please: we
-don't want YOU with us!"'
+on the song, 'I'd have said to the porpoise, Keep back, please: we
+don't want YOU with us!'
 
 'They were obliged to have him with them,' the Mock Turtle said: 'no
 wise fish would go anywhere without a porpoise.'
@@ -2645,9 +2645,9 @@ wise fish would go anywhere without a porpoise.'
 'Wouldn't it really?' said Alice in a tone of great surprise.
 
 'Of course not,' said the Mock Turtle: 'why, if a fish came to ME, and
-told me he was going a journey, I should say "With what porpoise?"'
+told me he was going a journey, I should say With what porpoise?'
 
-'Don't you mean "purpose"?' said Alice.
+'Don't you mean purpose?' said Alice.
 
 'I mean what I say,' the Mock Turtle replied in an offended tone. And
 the Gryphon added 'Come, let's hear some of YOUR adventures.'
@@ -2677,7 +2677,7 @@ should like to hear her try and repeat something now. Tell her to
 begin.' He looked at the Gryphon as if he thought it had some kind of
 authority over Alice.
 
-'Stand up and repeat "'TIS THE VOICE OF THE SLUGGARD,"' said the
+'Stand up and repeat 'TIS THE VOICE OF THE SLUGGARD,' said the
 Gryphon.
 
 'How the creatures order one about, and make one repeat lessons!'
@@ -2687,7 +2687,7 @@ Quadrille, that she hardly knew what she was saying, and the words came
 very queer indeed:--
 
   ''Tis the voice of the Lobster; I heard him declare,
-  "You have baked me too brown, I must sugar my hair."
+  You have baked me too brown, I must sugar my hair.
   As a duck with its eyelids, so he with his nose
   Trims his belt and his buttons, and turns out his toes.'
 
@@ -2718,7 +2718,7 @@ out with his nose, you know?'
 puzzled by the whole thing, and longed to change the subject.
 
 'Go on with the next verse,' the Gryphon repeated impatiently: 'it
-begins "I passed by his garden."'
+begins I passed by his garden.'
 
 Alice did not dare to disobey, though she felt sure it would all come
 wrong, and she went on in a trembling voice:--
@@ -2746,7 +2746,7 @@ on. 'Or would you like the Mock Turtle to sing you a song?'
 
 'Oh, a song, please, if the Mock Turtle would be so kind,' Alice
 replied, so eagerly that the Gryphon said, in a rather offended tone,
-'Hm! No accounting for tastes! Sing her "Turtle Soup," will you, old
+'Hm! No accounting for tastes! Sing her Turtle Soup, will you, old
 fellow?'
 
 The Mock Turtle sighed deeply, and began, in a voice sometimes choked
@@ -2978,9 +2978,9 @@ up at the mouth with strings: into this they slipped the guinea-pig,
 head first, and then sat upon it.)
 
 'I'm glad I've seen that done,' thought Alice. 'I've so often read
-in the newspapers, at the end of trials, "There was some attempts
+in the newspapers, at the end of trials, There was some attempts
 at applause, which was immediately suppressed by the officers of the
-court," and I never understood what it meant till now.'
+court, and I never understood what it meant till now.'
 
 'If that's all you know about it, you may stand down,' continued the
 King.
@@ -3222,23 +3222,23 @@ atom of meaning in it,' but none of them attempted to explain the paper.
 'If there's no meaning in it,' said the King, 'that saves a world of
 trouble, you know, as we needn't try to find any. And yet I don't know,'
 he went on, spreading out the verses on his knee, and looking at them
-with one eye; 'I seem to see some meaning in them, after all. "--SAID
-I COULD NOT SWIM--" you can't swim, can you?' he added, turning to the
+with one eye; 'I seem to see some meaning in them, after all. --SAID
+I COULD NOT SWIM-- you can't swim, can you?' he added, turning to the
 Knave.
 
 The Knave shook his head sadly. 'Do I look like it?' he said. (Which he
 certainly did NOT, being made entirely of cardboard.)
 
 'All right, so far,' said the King, and he went on muttering over
-the verses to himself: '"WE KNOW IT TO BE TRUE--" that's the jury, of
-course--"I GAVE HER ONE, THEY GAVE HIM TWO--" why, that must be what he
+the verses to himself: 'WE KNOW IT TO BE TRUE-- that's the jury, of
+course--I GAVE HER ONE, THEY GAVE HIM TWO-- why, that must be what he
 did with the tarts, you know--'
 
-'But, it goes on "THEY ALL RETURNED FROM HIM TO YOU,"' said Alice.
+'But, it goes on THEY ALL RETURNED FROM HIM TO YOU,' said Alice.
 
 'Why, there they are!' said the King triumphantly, pointing to the tarts
-on the table. 'Nothing can be clearer than THAT. Then again--"BEFORE SHE
-HAD THIS FIT--" you never had fits, my dear, I think?' he said to the
+on the table. 'Nothing can be clearer than THAT. Then again--BEFORE SHE
+HAD THIS FIT-- you never had fits, my dear, I think?' he said to the
 Queen.
 
 'Never!' said the Queen furiously, throwing an inkstand at the Lizard
